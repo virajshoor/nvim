@@ -1,0 +1,12 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# local knowledge-graph tool output
+graphify-out/
+.DS_Store
